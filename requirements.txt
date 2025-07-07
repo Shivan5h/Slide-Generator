@@ -1,0 +1,6 @@
+streamlit
+requests
+sounddevice
+numpy
+wave
+huggingface_hub 
